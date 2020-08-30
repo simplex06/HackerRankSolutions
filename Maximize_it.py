@@ -1,4 +1,4 @@
-# HackerRank - Maximize it! 
+# HackerRank - Maximize it!
 
 import itertools
 
